@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+p#title {
+    background-color: aliceblue;
+    color: black;
+}
+
+p {
+    color: aliceblue;
+}
+
+body#task {
+    background-color: red;
+}
+
+p#kelas {
+    color: black;
+    background-color: red;
+}
+
+p#nama {
+    color: black;
+    background-color: white;
+}
+
+p#week {
+    color: black;
+    background-color: blue;
+}

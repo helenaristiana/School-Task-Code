@@ -1,0 +1,13 @@
+body { 
+    background-color: hwb(256 23% 31%);
+}
+
+p#title {
+    color:blue
+    background-color: hwb(256 23% 31%);
+}
+
+p#subtitle {
+    color:blue
+    background-color: hwb(256 23% 31%);
+}
