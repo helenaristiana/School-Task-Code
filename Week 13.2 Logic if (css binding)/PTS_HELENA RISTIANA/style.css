@@ -1,0 +1,12 @@
+h1{
+    background-color: rgb(240, 227, 227);
+    text-align: center;
+    font-family: "Bebas Neue",sans-serif;
+}
+
+<style>
+        tu{
+            background-color: bisque;
+            border: 1px solid black;
+            text-align: center;
+        }
