@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Laut Bercerita",
+        "publisher": "Kepustakaan Populer Gramedia (KPG)",
+        "author": "Leila S. Chudori",
+        "published_year": "2017",
+        "city": "Jakarta"
+    },
+
+
+    {
+        "title": "Cantik itu luka",
+        "publisher": "Akademi Kebudayaan Yogyakarta (AKY Press) & Penerbit Jendela",
+        "author": "Eka Kurniawan",
+        "published_year": " 2002 (Desember)",
+        "city": "Yogyakarta"
+    },
+
+    {
+        "title": "5 CM",
+        "publisher": "PT. Grasindo (Anggota Kompas Gramedia)",
+        "author": "Donny Dhirgantoro",
+        "published_year": "Mei 2005 (Cetakan Pertama)",
+        "city": "Jakarta"
+    },
+
+    {
+        "title": "Crime and Punishment",
+        "publisher": "The Russian Messenger (The Russian Herald)",
+        "author": "Fyodor Dostoevsky",
+        "published_year": "1866 (serialized) / 1867 (first book edition)",
+        "city": "Moscow, Russia"
+    },
+
+    {
+        "title": "Trisula Mentari",
+        "publisher": "PT Gramedia Pustaka Utama",
+        "author": "Shandy Tan",
+        "published_year": "2017 (Cetakan pertama Maret 2017)",
+        "city": "Jakarta"
+    },
+
+    {
+        "title": "Matahari Terbenam",
+        "publisher": "Shinchōsha (Buku) / Shinchō (Majalah)",
+        "author": "Osamu Dazai",
+        "published_year": "1947",
+        "city": "Tokyo, Jepang"
+    },
+
+    {
+        "title": "Neraka Cermin",
+        "publisher": "BukuKatta",
+        "author": "Edogawa Ranpo ",
+        "published_year": "2011",
+        "city": "Solo (Surakarta)"
+    },
+
+    
+    {
+        "title": "3726 MDPL",
+        "publisher": " Romancious",
+        "author": "Nurwina Sari",
+        "published_year": "2024",
+        "city": "Jakarta"
+    },
+
+    {
+        "title": "0 MDPL",
+        "publisher": " Romancious",
+        "author": "Nurwina Sari",
+        "published_year": "2025",
+        "city": "Jakarta"
+    },
+
+    {
+        "title": "Seporsi Mie Ayam Sebelum Mati",
+        "publisher": "Grasindo",
+        "author": "Brian Khrisna",
+        "published_year": "2025",
+        "city": "Jakarta"
+    }
+
+
+]

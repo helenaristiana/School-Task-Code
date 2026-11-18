@@ -1,0 +1,102 @@
+[
+
+    {
+        "nama": "Xaviana",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2010-09-30",
+        "alamat": "Jl. Gatot Subroto"
+    },
+
+    {
+        "nama": "Natali",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Medan",
+        "tanggal_lahir": "2009-12-21",
+        "alamat": "Jl. Aesnasution"
+    },
+
+    {
+        "nama": "Helena",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Tanah Laut",
+        "tanggal_lahir": "2009-12-30",
+        "alamat": "Jl. Aesnasution"
+    },
+
+    {
+        "nama": "Airine",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2010-09-30",
+        "alamat": "Citra Graha"
+    },
+    
+    {
+        "nama": "Livina",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2010-07-09",
+        "alamat": "Jl. Pramuka Komplek Melati"
+    },
+
+    {
+        "nama": "Leoni",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2010-04-30",
+        "alamat": "Jl. Banjar Indah"
+    },
+
+    {
+        "nama": "Gisella",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2009-03-08",
+        "alamat": "Jl. Kampung Melayu Darat"
+    },
+
+    {
+        "nama": "March",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Bekasi",
+        "tanggal_lahir": "2010-03-17",
+        "alamat": "Jl. Albino"
+    },
+
+    {
+        "nama": "Martha",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Palangkaraya",
+        "tanggal_lahir": "2010-03-23",
+        "alamat": "Jl. Kayu Tangi"
+    },
+
+    {
+        "nama": "Keisen",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2010-12-19",
+        "alamat": "Jl. Pramuka"
+    },
+
+    {
+        "nama": "Aaron",
+        "umur": 16,
+        "kelas": "XI A",
+        "tempat_lahir": "Banjarmasin",
+        "tanggal_lahir": "2010-07-18",
+        "alamat": "Komplek Pondok Indah"
+    }
+
+]
